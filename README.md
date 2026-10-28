@@ -272,3 +272,5 @@ Enter choice (1-9):
 - **Generate Daily Report (8)**: Parses logs and prints aggregate deposits, withdrawals, and net change.
 - **Exit (9)**: Persists all registered accounts to `data/accounts.ser` and gracefully shuts down.
 
+=======
+# Java_Mini-Project
